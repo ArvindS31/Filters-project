@@ -1,5 +1,3 @@
-# Filters
-
 # AutoAura Images
 
 A Python program that applies creative filters to car photos. Built as a team project with two others.
