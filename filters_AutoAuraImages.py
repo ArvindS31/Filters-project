@@ -2,9 +2,7 @@ from PIL import Image, ImageFilter
 from math import floor
 from random import randint, uniform
 import random
-import os
 from time import sleep
-
        
 def check_max(pixel):
     pixel = list(pixel)
